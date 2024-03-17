@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "cypress": "^13.6.6"
+  },
+  "dependencies": {
+    "artillery": "^2.0.7"
   }
 }
